@@ -1,6 +1,6 @@
 # react-movie
 
-    Responsive React Movies App With API
+    Responsive React Movies App With API used, fetching data from 3rd party library, using sass and many more more features, like responsiveness etc.
 
 
 
